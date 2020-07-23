@@ -1,0 +1,43 @@
+/*general */
+.container {
+    max-width: 95%;
+    margin: 0 auto;
+    padding: 60px 0 ;
+}
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.inline-block {
+    display: inline-block;
+}
+/*typography */
+p, h4 { 
+    color: #6C6C6C;
+    font-size: 15px;
+    line-height: 1.7;
+    font-weight: 300;
+    padding-top: 10px;
+    text-decoration: none;
+}
+h2 {
+    color: #197D62;
+    font-size: 35px;
+    line-height: 1.5;
+}
+h4 {
+    font-size: 17.5px;
+    padding-top: 0;
+    padding-bottom: 50px;
+}
+h3 {
+    padding: 35px 0 10px 0;
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+}
+span {
+    font-weight: 700;
+}
