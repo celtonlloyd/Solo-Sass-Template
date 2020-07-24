@@ -3,7 +3,7 @@ img {
     margin-top: 150.67px;
 }
 .article {
-    background-color: #383838;
+    background-color: $primary-color;
 }
 .col-1-4 {
     width: 25%;
@@ -19,12 +19,12 @@ hr {
     text-align: center;
     padding: 75px 45px;
     a {
-        color: #197D62; 
+        color: $accent-color; 
     }
     .button {
         color: white;
         padding: 23px 50px;
-        background-color: #197D62;
+        background-color: $accent-color;
         letter-spacing: 3px;
         font-size: 14px;
         font-weight: 600;
