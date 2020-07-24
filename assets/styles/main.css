@@ -158,6 +158,10 @@ header .nav a:hover {
   color: white;
 }
 
+.bar {
+  display: none;
+}
+
 /*article main */
 img {
   margin-top: 150.67px;
@@ -244,6 +248,9 @@ footer a {
     padding: 2.5rem 0 3rem 0;
   }
   /* toggle */
+  .fa-bars {
+    display: inline-block;
+  }
   nav {
     display: none;
   }

@@ -10,7 +10,7 @@ header {
     }
     input {
         display: none;
-    }
+    }   
     .nav a {
         display: inline-block;
         padding: 20px;
@@ -24,4 +24,7 @@ header {
             color: white; 
         }
     }
+}
+.bar {
+    display: none;
 }
